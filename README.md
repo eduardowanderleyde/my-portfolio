@@ -18,3 +18,6 @@ To run the project locally, follow these steps:
 ## Online Access
 
 The website is available online at: [Eduardo Wanderley's Portfolio](https://eduardowanderleyde.github.io/my-portfolio)
+
+
+/c/Users/Eduardo/.local/share/gem/ruby/3.0.0/gems/jekyll-4.3.3/exe/jekyll serve
