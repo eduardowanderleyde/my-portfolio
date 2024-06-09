@@ -6,7 +6,7 @@ permalink: /videos/
 
 ## Work Videos
 
-Aqui está um vídeo interessante que eu fiz:
+Instagram Clone:
 
 <video width="560" height="315" controls>
   <source src="/assets/videos/insta1.mp4" type="video/mp4">
