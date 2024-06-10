@@ -6,19 +6,14 @@ permalink: /videos/
 
 ## Work Videos
 
-Instagram Clone:
+### Instagram Clone
 
-<div style="position:relative;padding-top:56.25%;">
-<iframe src="https://www.youtube.com/watch?v=hlNyOO55hxk" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allowfullscreen></iframe>
-</div>
+[![Instagram Clone](https://img.youtube.com/vi/hlNyOO55hxk/0.jpg)](https://www.youtube.com/watch?v=hlNyOO55hxk)
 
+### Interactive Website with Dynamic Texts and JavaScript Animations
 
-Interactive Website with Dynamic Texts and JavaScript Animations:
-<div style="position:relative;padding-top:56.25%;">
-<iframe src="https://www.youtube.com/watch?v=17buOCHn-4E" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allowfullscreen></iframe>
-</div>
+[![Interactive Website](https://img.youtube.com/vi/17buOCHn-4E/0.jpg)](https://www.youtube.com/watch?v=17buOCHn-4E)
 
-Car Showcase - Typescript and Next.js 13 Application
-<div style="position:relative;padding-top:56.25%;">
-<iframe src="https://www.youtube.com/watch?v=QJU6HT7sNnM" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allowfullscreen></iframe>
-</div>
+### Car Showcase - Typescript and Next.js 13 Application
+
+[![Car Showcase](https://img.youtube.com/vi/QJU6HT7sNnM/0.jpg)](https://www.youtube.com/watch?v=QJU6HT7sNnM)
