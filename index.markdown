@@ -8,7 +8,7 @@ title: Homepage
 
 ## My Profile
 
-I'm passionate about technology, particularly in the realm of Ruby on Rails development. Alongside coding, I enjoy writing about various topics such as technology, music, and more. Welcome to my blog, where I share my thoughts and experiences.
+I'm passionate about technology, particularly in the realm of Ruby on Rails development. Alongside coding, I enjoy writing about various topics such as technology, music, and nature. Welcome to my blog, where I share my thoughts and experiences.
 
 ## About
 
