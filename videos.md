@@ -6,7 +6,7 @@ permalink: /videos/
 
 ## Work Videos
 
-### Instagram Clone
+### Dog React Social Media
 
 <div style="position:relative;padding-top:56.25%;">
 <iframe src="https://www.youtube.com/embed/hlNyOO55hxk" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allowfullscreen></iframe>
